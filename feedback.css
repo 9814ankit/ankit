@@ -4,6 +4,9 @@
      background: url(14.jpg);
     background-color:hsl(39, 98%, 74%);
 }
+.textbg{
+     background-color: white;
+}
 .feed-box{
 top: 20%;
 left: 35%;
