@@ -4,6 +4,9 @@
      background: url(14.jpg);
     background-color:hsl(39, 98%, 74%);
 }
+body    {
+    background:url(14.jpg) ;
+}
 .textbg{
      background-color: white;
 }
