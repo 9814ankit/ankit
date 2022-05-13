@@ -120,25 +120,4 @@
     color: #000;
   }
   
-  .change_content:after {
-    content: "";
-    animation: changetext 10s infinite linear;
-    color: black;
-  }
-  
-  @keyframes changetext {
-    0% {
-      content: "Bollywood";
-    }
-    20% {
-      content: "PoP";
-    }
-    35% {
-      content: "Punjabi";
-    }
-    60% {
-      content: "Hip-hop";
-    }
-    80% {
-      content: "Classical";
-  }
+ 
