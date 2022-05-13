@@ -4,7 +4,8 @@
     /* background-color:hsl(39, 98%, 74%); */
 }
 body    {
-    background:url(14.jpg) ;
+    background:url(14.jpg) no repeat ;
+    background: cover;
 }
 .feed-box{
 top: 20%;
