@@ -10,6 +10,7 @@ left: 35%;
 position: absolute;
 transform: translate(-50%,-50);
 width: 350px;
+     background-color:white;
 }
 .feed-box h2{
     font-size: 30px;
